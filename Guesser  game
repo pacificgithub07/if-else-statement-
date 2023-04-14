@@ -1,5 +1,4 @@
-// if-else-statement-
-//find the greatest number 
+// guesser game 
 
 import java.util.Scanner;
 
